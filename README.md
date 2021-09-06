@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Mohamed Medhat  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<!--
-**momedhat/momedhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I am recent computer science graduate<br>
+- 👀 I am interested in **Data Analysis** and **Data Visualization**<br>
+- 📈 I experienced in **Python**, **Java**, **SQL** and some visualization tools like **Tableau** and **Power BI**  <br>
+- 📫 Reach me by the following links:<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://www.linkedin.com/in/momedhat99/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="24" width="24" /></a>
+    <a href="https://www.hackerrank.com/momedhat" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="24" width="24" /></a>
+    <a href = "mailto: momedhat099@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" height="24" width="24" /></a>
+</p>
+<br>
