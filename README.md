@@ -1,8 +1,7 @@
 ### Hi, I'm Mohamed Medhat  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-- 🎓 I am recent computer science graduate<br>
-- 👀 I am interested in **Data Analysis** and **Data Visualization**<br>
-- 📈 I experienced in **Python**, **Java**, **SQL** and some visualization tools like **Tableau** and **Power BI**  <br>
+- 🎓 Data Engineering Trainee @ **ITI** <br>
+- 📈 I experienced in **Python**, **SQL** and some visualization tools like **Tableau** and **Power BI**  <br>
 - 📫 Reach me by the following links:<br>
 
 <p align="center">
