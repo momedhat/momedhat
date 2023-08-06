@@ -1,12 +1,7 @@
-### Hi, I'm Mohamed Medhat  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi, I'm Mohamed Medhat  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+[![Linkedin](https://img.shields.io/badge/-momedhat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/momedhat099/)
+[![Gmail](https://img.shields.io/badge/-momedhat099@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:momedhat099@gmail.com) <br>
 
-- 🎓 Data Engineering Trainee @ **ITI** <br>
-- 📈 I experienced in **Python**, **SQL** and some visualization tools like **Tableau** and **Power BI**  <br>
-- 📫 Reach me by the following links:<br>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/momedhat99/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="24" width="24" /></a>
-    <a href="https://www.hackerrank.com/momedhat" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="24" width="24" /></a>
-    <a href = "mailto: momedhat099@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" height="24" width="24" /></a>
-</p>
-<br>
+- Experienced Data Engineer with strong skills in database design, efficient data integration, and scalable processing. Proficient in programming languages, databases, ETL tools for valuable insights. Detail-oriented in data modeling, ensuring accuracy. Skilled in big data, Data Warehouse (DWH), Databases, and Data analysis.
+- I am Data Engineering Trainee @ **ITI**
+- Constantly seeking growth, I am enthusiastic about staying up-to-date with the latest advancements in data engineering, including emerging tools and frameworks. My passion for problem-solving and my commitment to delivering high-quality solutions make me an asset to any enterprise seeking a skilled and dedicated Data Engineer.
